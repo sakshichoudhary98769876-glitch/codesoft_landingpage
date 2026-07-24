@@ -353,13 +353,7 @@ section {
 .contact button:hover{
     transform:translateY(-3px);
 }
-
-/* Glass Effect */
-
-.card,
-.service{
-    backdrop-filter:blur(10px);
-}
+
 
 /* Scrollbar */
 
